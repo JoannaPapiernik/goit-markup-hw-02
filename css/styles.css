@@ -85,7 +85,34 @@ a {
   line-height: 1.17;
   color: var(--font-color);
 }
+.menu-links:hover,
+.menu-links:focus {
+  width: 53px;
+  height: 16px;
+  left: 453px;
+  top: 32px;
+
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  line-height: 1.17;
+  color: var(--brand-blue);
+}
 .menu-links-two {
+  width: 58px;
+  height: 16px;
+  left: 552px;
+  top: 32px;
+
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  color: var(--font-color);
+  line-height: 1.17;
+}
+.menu-links-two:hover,
+.menu-links:focus {
   width: 58px;
   height: 16px;
   left: 552px;
@@ -169,6 +196,18 @@ p4 {
   line-height: 1.17;
   letter-spacing: 0.02em;
   color: var(--font-color);
+}
+.menu-links-three:hover,
+.menu-links-three:focus {
+  width: 58px;
+  height: 16px;
+  left: 656px;
+  top: 32px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.17;
+  letter-spacing: 0.02em;
+  color: var(--brand-blue);
 }
 .menu-index {
   width: 53px;
