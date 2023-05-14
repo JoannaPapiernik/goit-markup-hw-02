@@ -136,6 +136,19 @@ a {
   line-height: 1.17;
   letter-spacing: 0.02em;
 }
+.email-nav:hover,
+.email-nav:focus {
+  color: var(--brand-blue);
+  width: 135px;
+  height: 16px;
+  left: 1078px;
+  top: 32px;
+
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.17;
+  letter-spacing: 0.02em;
+}
 p1 {
   width: 322px;
   height: 36px;
